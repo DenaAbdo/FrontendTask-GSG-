@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+ul{
+    background-color: lightgrey;
+    border: solid;
+    border-width: 1pt;
+}
+ul li{
+    color: green;
+    font-weight: bold;
+}
